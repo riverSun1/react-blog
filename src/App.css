@@ -11,22 +11,22 @@
   padding-left: 20px;
 }
 
+h4 {
+  display: inline;
+}
+
 div {
   box-sizing: border-box;
+  background-color: black;
 }
 .list {
   padding-left: 20px;
   text-align: left;
   border-bottom: 1px solid grey;
+  color: white;
 }
-
 .modal {
   background-color: grey;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
