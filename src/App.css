@@ -12,13 +12,22 @@
 }
 
 h4 {
-  display: inline;
+  /*display: inline;*/
 }
 
 div {
   box-sizing: border-box;
   background-color: black;
 }
+
+button {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-top: 20px;
+}
+
 .list {
   padding-left: 20px;
   text-align: left;
